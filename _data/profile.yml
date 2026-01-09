@@ -23,18 +23,18 @@ short_bio: >-
   I am Ouyang Minxing, a Master’s student at Tsinghua Shenzhen International Graduate School, where I conduct research in Pathology AI under the supervision of Prof. Yonghong He and Prof. Tian Guan. My academic journey began with a Bachelor’s degree in Aeronautical and Astronautical Engineering from Beihang University, and I am now deeply engaged in the field of medical artificial intelligence. My research interests lie in several cutting-edge areas, including 1) Multiple Instance Learning, 2) Multimodal Learning, 3) Self-supervised Learning, 4) Foundation Models, and 5) Causal Inference. These topics are at the forefront of AI research and hold great potential for transforming healthcare and medical diagnostics. I am currently seeking Ph.D. opportunities to further explore these areas and contribute to the development of advanced AI technologies. I am particularly interested in collaborating with researchers from diverse fields to drive innovation and address complex challenges. If you share similar interests or have opportunities to discuss, I would be thrilled to connect with you.
 
 show_portrait: true
-portrait_url: assets/images/photos/self_logo.jpg
+portrait_url: assets/images/photos/lovely_minx.jpg
 portrait_caption: >-
-  I am Xitong Ling~
+  I am Ouyang Minxing~
 
 education:
 - name: Tsinghua University
   logo: assets/images/badges/thu_logo.jpg
-  position: M.S. Biomedical Science and Health
+  position: M.S. Electronic Information (Artificial Intelligence)
   date: Sep. 2023 - Jul. 2026
-- name: Beihang University
-  logo: assets/images/badges/buaa_logo.jpg
-  position: B.S. Aeronautical and Astronautical Science and Technology
+- name: Hefei University of Technology
+  logo: assets/images/badges/HFUT.jpg
+  position: B.S. Information and Computing Science
   date: Sep. 2019 - Jul. 2023
   
 # experience:
