@@ -1,6 +1,6 @@
-primary_name: "Ouyang Minxing"
+primary_name: "Ouyang Minxi"
 secondary_name: ""
-navbar_name: "Ouyang Minxing's Home Page"
+navbar_name: "Ouyang Minxi's Home Page"
 
 positions:
   - '<span class="no-break"><img src="assets/images/badges/thu_logo.jpg" alt="Tsinghua University" class="inline-badge"/></span> M.S., Tsinghua University'
@@ -21,12 +21,12 @@ prof_ling: "https://lingxitong.github.io/"
 # xiaohongshu: 5fa2663000000000010068e2
 
 short_bio: >-
-  I am Ouyang Minxing, a Master's student at Tsinghua Shenzhen International Graduate School, where I conduct research in Pathology AI under the supervision of Prof. Xitong Ling, Prof. Yonghong He and Prof. Tian Guan. My academic journey began with a Bachelor's degree in Information and Computing Science from Hefei University of Technology, and I am now deeply engaged in the field of medical artificial intelligence. My research interests lie in several cutting-edge areas, including 1) Multiple Instance Learning, 2) Multimodal Learning, 3) Self-supervised Learning, 4) Foundation Models, and 5) Causal Inference. These topics are at the forefront of AI research and hold great potential for transforming healthcare and medical diagnostics. I am currently seeking Ph.D. opportunities to further explore these areas and contribute to the development of advanced AI technologies. I am particularly interested in collaborating with researchers from diverse fields to drive innovation and address complex challenges. If you share similar interests or have opportunities to discuss, I would be thrilled to connect with you.
+  I am Ouyang Minxi, a Master's student at Tsinghua Shenzhen International Graduate School, where I conduct research in Pathology AI under the supervision of Prof. Xitong Ling, Prof. Yonghong He and Prof. Tian Guan. My academic journey began with a Bachelor's degree in Information and Computing Science from Hefei University of Technology, and I am now deeply engaged in the field of medical artificial intelligence. My research interests lie in several cutting-edge areas, including 1) Multiple Instance Learning, 2) Multimodal Learning, 3) Self-supervised Learning, 4) Foundation Models, and 5) Causal Inference. These topics are at the forefront of AI research and hold great potential for transforming healthcare and medical diagnostics. I am currently seeking Ph.D. opportunities to further explore these areas and contribute to the development of advanced AI technologies. I am particularly interested in collaborating with researchers from diverse fields to drive innovation and address complex challenges. If you share similar interests or have opportunities to discuss, I would be thrilled to connect with you.
 
 show_portrait: true
 portrait_url: assets/images/photos/lovely_minx.jpg
 portrait_caption: >-
-  I am Ouyang Minxing~
+  I am Ouyang Minxi~
 
 education:
 - name: Tsinghua University
